@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyubin&show_icons=true&theme=buefy)
+![yyubin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyubin&show_icons=true&theme=buefy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yyubin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hazing120)](https://solved.ac/hazing120)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hazing120)](https://solved.ac/hazing120)
 
 <!--
 **yyubin/yyubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
