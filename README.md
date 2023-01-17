@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yyubin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yyubin)](https://solved.ac/yyubin)
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hazing120)](https://solved.ac/hazing120)
 
 <!--
 **yyubin/yyubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
