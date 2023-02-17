@@ -4,7 +4,7 @@
 
 ![yyubin's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yyubin&show_icons=true&theme=buefy)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyubin&layout=compact">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyubin&layout=compact"> -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yyubin&layout=compact)](https://github.com/yyubin/github-readme-stats) -->
 
