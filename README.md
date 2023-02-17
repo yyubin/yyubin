@@ -4,6 +4,9 @@
 
 ![yyubin's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yyubin&show_icons=true&theme=buefy)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyubin&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=yyubin&show_icons=true">
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yyubin&layout=compact)](https://github.com/yyubin/github-readme-stats) -->
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hazing120)](https://solved.ac/hazing120)
