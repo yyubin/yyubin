@@ -22,7 +22,7 @@
     <br>
     <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
     <img src="https://img.shields.io/badge/Mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-    <img src="https://img.shields.io/badge/SQLSERVER-CC2927?style=for-the-badge&logo=sqlserver&logoColor=white">
+    <img src="https://img.shields.io/badge/SQLSERVER-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white">
     <img src="https://img.shields.io/badge/H2-00C4CC?style=for-the-badge&logo=h2&logoColor=white">
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
     <br>
