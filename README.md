@@ -1,13 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&text=Welcome%20my%20Github%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 <br>
-Hello, I am Yubin majoring in computer science. As I am still a student, I am experiencing various fields of development. 
-I like to experience unique paradigms in each language, so I am experiencing various things. 
-I studied back-end technology the most, but recently I'm learning blockchain technology. 
-I enjoy learning new things, so I often take Udemy or Coursera lectures. 
-The basic computer science that supports many IT technologies is of course important, so I try to post about it on my blog. 
-I'm always grateful that many senior developers share their knowledge! 
-I will be a developer who is helpful to other developers like them.
+Hello, I am Yubin majoring in computer science. As I am still a student, I am experiencing various fields of development.  
+I like to experience unique paradigms in each language, so I am experiencing various things.   
+I studied back-end technology the most, but recently I'm learning blockchain technology.   
+I enjoy learning new things, so I often take Udemy or Coursera lectures.   
+The basic computer science that supports many IT technologies is of course important, so I try to post about it on my blog.   
+I'm always grateful that many senior developers share their knowledge!   
+I will be a developer who is helpful to other developers like them.  
 <br>
 <br>
 
