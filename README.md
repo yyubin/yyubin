@@ -1,13 +1,24 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&text=Welcome%20my%20Github%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 <br>
-Hello, I'm Yubin, and I'm currently pursuing a major in computer science. As a student, I'm passionate about exploring various fields of development. I find it fascinating to delve into unique paradigms offered by different programming languages, which is why I'm constantly seeking new experiences.
+Hello, I'm Yubin, and I'm currently pursuing a major in computer science. 
+<br>
+As a student, I'm passionate about exploring various fields of development. 
+<br>
+I find it fascinating to delve into unique paradigms offered by different programming languages, which is why I'm constantly seeking new experiences.
 <br><br>
-While I have primarily focused on back-end technologies in my studies, I recently started delving into blockchain technology. I thoroughly enjoy the process of learning and expanding my knowledge, often taking advantage of online platforms like Udemy and Coursera to further my education.
+While I have primarily focused on back-end technologies in my studies, I recently started delving into blockchain technology. 
+<br>
+I thoroughly enjoy the process of learning and expanding my knowledge, often taking advantage of online platforms like Udemy and Coursera to further my education.
 <br><br>
-In addition to exploring specific technologies, I also recognize the importance of a solid foundation in computer science, as it serves as the backbone for many IT fields. Consequently, I make an effort to share my insights on related topics through my blog.
+In addition to exploring specific technologies, I also recognize the importance of a solid foundation in computer science, as it serves as the backbone for many IT fields. 
+<br>
+Consequently, I make an effort to share my insights on related topics through my blog.
 <br><br>
-I'm incredibly grateful to the senior developers who generously share their knowledge and expertise. They have been instrumental in my learning journey, and my goal is to become a developer who can provide similar assistance and support to others.
+I'm incredibly grateful to the senior developers who generously share their knowledge and expertise. 
+<br>
+They have been instrumental in my learning journey, and my goal is to become a developer who can provide similar assistance and support to others.
+<br>
 <br>
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-soohyeon&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
