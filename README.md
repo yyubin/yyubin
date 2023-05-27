@@ -2,11 +2,17 @@
 
 <br>
 Hello, I am Yubin majoring in computer science. As I am still a student, I am experiencing various fields of development.  
-I like to experience unique paradigms in each language, so I am experiencing various things.   
+<br>
+I like to experience unique paradigms in each language, so I am experiencing various things.  
+<br>
 I studied back-end technology the most, but recently I'm learning blockchain technology.   
+<br>
 I enjoy learning new things, so I often take Udemy or Coursera lectures.   
+<br>
 The basic computer science that supports many IT technologies is of course important, so I try to post about it on my blog.   
+<br>
 I'm always grateful that many senior developers share their knowledge!   
+<br>
 I will be a developer who is helpful to other developers like them.  
 <br>
 <br>
