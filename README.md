@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:F8B195,50:F67280,100:C06C84&height=200&section=header&text=WelcomeMyGithub&fontSize=90&fontColor=f7f5f5)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:F8B195,50:F67280,100:C06C84&height=200&section=header&text=WelcomeMyGithub&fontSize=50&fontColor=f7f5f5)
 
 <br>
 Hello, I'm Yubin, and I'm currently pursuing a major in computer science. 
