@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:F8B195,50:F67280,100:C06C84&height=200&section=header&text=WelcomeMyGithub&fontSize=50&fontColor=f7f5f5)
 
-<br>
+<!-- <br>
 Hello, I'm Yubin, and I'm currently pursuing a major in computer science. 
 <br>
 As a student, I'm passionate about exploring various fields of development. 
@@ -19,7 +19,7 @@ I'm incredibly grateful to the senior developers who generously share their know
 <br>
 They have been instrumental in my learning journey, and my goal is to become a developer who can provide similar assistance and support to others.
 <br>
-<br>
+<br> -->
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-soohyeon&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
