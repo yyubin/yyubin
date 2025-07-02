@@ -30,13 +30,6 @@ I'm currently developing `Sprout`, a personal project inspired by Spring to unde
 
 ---
 
-### 📘 Philosophy & Literature
-
-I enjoy reading and summarizing books on philosophy and literature. Recently, I'm working on a project to organize Nietzsche's *Thus Spoke Zarathustra* by dividing it into parts.  
-I only summarize books that offer lasting insights or challenge me to think deeply. Others, I just keep to myself.
-
----
-
 ### 📫 How to Reach Me
 
 - GitHub Issues or Discussions
