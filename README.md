@@ -1,4 +1,4 @@
-### 🌱 Hello, I'm yubin – Developer & Thinker
+### 🌱 Hello, I'm yubin – Developer
 
 I'm currently developing `Sprout`, a personal project inspired by Spring to understand how frameworks work. I also spend my time solving algorithm problems and writing both technical and philosophical essays.
 
