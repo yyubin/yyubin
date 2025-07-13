@@ -9,13 +9,15 @@ I'm currently developing `Sprout`, a personal project inspired by Spring to unde
 | Area | Description | Links |
 |------|-------------|--------|
 | **Framework Dev** | Building `Sprout`, a Spring-like Java framework | [GitHub Projects](https://github.com/yyubin/sprout) |
-| **Problem Solving** | Practicing with algorithms and data structures | [BOJ](https://solved.ac/profile/hazing120) |
+| **Problem Solving** | Practicing with algorithms and data structures | [Solved.ac](https://solved.ac/profile/hazing120) |
 | **Dev Blog** | Writing about technology, frameworks, and experiments | [Velog](https://velog.io/@cassidy/posts) |
 | **Lit & Phil** | Reflecting on Camus, Nietzsche, and more | [Brunch](https://brunch.co.kr/@yyubin) |
 
 ---
 
 ### 🛠 Tech Stack
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yyubin&layout=compact)
 
 **Languages**: `Java`, `Python`
 
