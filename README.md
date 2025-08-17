@@ -43,7 +43,7 @@ I'm currently developing `Sprout`, a personal project inspired by Spring to unde
 
 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fyyubin?color=green&label=hits&size=medium)](https://myhits.vercel.app)  
 
-Thanks for stopping by. My repo may be a mess, but my thoughts are organized.  
+Thanks for stopping by.  
 
 
 
