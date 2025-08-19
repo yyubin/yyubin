@@ -12,6 +12,7 @@ I'm currently developing `Sprout`, a personal project inspired by Spring to unde
 | **Problem Solving** | Practicing with algorithms and data structures | [Solved.ac](https://solved.ac/profile/hazing120) |
 | **Dev Blog** | Writing about technology, frameworks, and experiments | [Velog](https://velog.io/@cassidy/posts) |
 | **Lit & Phil** | Reflecting on Camus, Nietzsche, and more | [Brunch](https://brunch.co.kr/@yyubin) |
+| **BookShelf** | Archiving the books I've read and what I thought about them | [B-rchive](https://bookshelf-indol.vercel.app) |
 
 ---
 
@@ -23,7 +24,7 @@ I'm currently developing `Sprout`, a personal project inspired by Spring to unde
 
 **Frameworks & Tools**: `Spring`, `Gradle`, `JUnit`, `Git`
 
-**Currently Exploring**: `Reflection API`, `Annotation Processing`, `Functional Programming`
+**Currently Exploring**: `Reflection API`, `Annotation Processing`
 
 ---
 
